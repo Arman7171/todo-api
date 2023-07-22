@@ -5,7 +5,7 @@ const express = require('express'),
   taskController = require('../controllers/task.controller');
   
 /**
- * Аll routes start with '/task'
+ * Аll routes start with '/task h'
  **/
 //todo please fix the auth middleware later
 
